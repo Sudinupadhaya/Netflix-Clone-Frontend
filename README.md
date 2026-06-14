@@ -1,77 +1,86 @@
-Netflix-Clone-Frontend
+# Netflix Clone Frontend
 
-This repository contains a simple Netflix homepage UI clone built using HTML and CSS. The goal of this project is to practice frontend basics such as layout design, positioning, typography, and styling by recreating a familiar real-world interface.
+A responsive Netflix-style landing page built with HTML and CSS. This project focuses on frontend fundamentals, including layout design, typography, spacing, hero sections, navigation bars, background images, and call-to-action styling.
 
-This is a static frontend project and does not include backend features like authentication, movie streaming, or dynamic data fetching. It is made purely for learning and UI practice.
+## Project Overview
 
+The goal of this project is to recreate the visual structure of a modern streaming platform landing page using only core frontend technologies. It is a static UI project created for practicing real-world webpage layout and design implementation.
 
- What’s included in this project
+> This is a frontend-only educational project. It does not include authentication, video streaming, payment integration, backend APIs, or real Netflix services.
 
+## Features
 
-A Netflix-style landing page layout
+- Netflix-inspired landing page design
+- Navigation section with logo
+- Hero/banner section with background image
+- Clear headline and call-to-action layout
+- CSS-based positioning and styling
+- Static responsive webpage structure
+- Organized project files
 
-Navigation section with logo
+## Tech Stack
 
-Hero/banner area with background image
+- HTML5
+- CSS3
+- Visual Studio Code
 
-Text and call-to-action styled like the original homepage
+## Project Structure
 
-CSS-based design and alignment
+```text
+Netflix-Clone-Frontend/
+│
+├── index.html              # Main HTML file
+├── style.css               # Styling file
+├── background images.jpg   # Background image asset
+├── netflix.logo.jpg        # Logo image asset
+├── logo.svg                # SVG logo asset
+└── favicon.ico.ico         # Favicon
+```
 
+## How to Run Locally
 
-Technologies used
+### 1. Clone the repository
 
-HTML5
+```bash
+git clone https://github.com/Sudinupadhaya/Netflix-Clone-Frontend.git
+cd Netflix-Clone-Frontend
+```
 
-CSS3
+### 2. Open the project
 
+Open `index.html` directly in your browser.
 
+Recommended option:
 
-Project files
+- Open the folder in VS Code
+- Install the Live Server extension
+- Right-click `index.html`
+- Select **Open with Live Server**
 
-This project includes:
+## Skills Demonstrated
 
-index.html
+This project demonstrates:
 
-style.css
+- HTML page structure
+- CSS styling and layout
+- Use of images and assets
+- Navigation bar creation
+- Hero section design
+- Basic responsive layout thinking
+- UI recreation from a reference design
 
-background images.jpg
+## Future Improvements
 
-netflix.logo.jpg
+- Improve mobile responsiveness
+- Add hover effects and animations
+- Add more landing page sections
+- Convert the project into a React version
+- Add reusable components
+- Deploy using GitHub Pages or Netlify
 
-logo.svg
+## Author
 
-favicon.ico.ico
+**Sudin Upadhaya**
 
-How to run locally
-
-Download or clone the repository.
-
-Open the index.html file in your browser.
-
-You can also open the project using VS Code and run it with Live Server for easier preview.
-
-Purpose of the project
-
-This project was created to:
-
-Improve HTML and CSS skills
-
-Learn how to structure a webpage
-
-Practice real UI cloning
-
-Build confidence in frontend design
-
-Future improvements (optional)
-
-If you want to enhance this project later, you can add:
-
-Better responsiveness for mobile and tablets
-
-Hover effects and animations
-
-Additional sections similar to the real Netflix landing page
-
-A React version of the same UI
-
+- GitHub: Sudinupadhaya
+- Focus areas: Frontend Development, Data Analysis, Machine Learning, and Software Engineering
